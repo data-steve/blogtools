@@ -1,0 +1,12 @@
+Package: blogtools
+Title: What the Package Does (one line)
+Version: 0.0.1
+Authors@R: c(person("FIRST", "LAST", email = "steven.troy.simpson@gmail.com", role = c("aut", "cre")))
+Maintainer: FIRST LAST <steven.troy.simpson@gmail.com>
+Description: What the package does (one paragraph)
+Depends: R (>= 3.2.4)
+Suggests: testthat
+Date: 2016-05-01
+License: GPL-2
+LazyData: TRUE
+Roxygen: list(wrap = FALSE)
