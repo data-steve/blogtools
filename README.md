@@ -4,13 +4,12 @@ blogtools [![Follow](https://img.shields.io/twitter/follow/data_steve.svg?style=
 
 [![Build
 Status](https://travis-ci.org/data-steve/blogtools.svg?branch=master)](https://travis-ci.org/data-steve/blogtools)
-[![Coverage
-Status](https://coveralls.io/repos/data-steve/blogtools/badge.svg?branch=master)](https://coveralls.io/r/data-steve/blogtools?branch=master)
+<a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
+
 
 ![](inst/blogtools.jpg)
 
-<a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
-</p>
+
 
 **blogtools** is tools for blogging.
 
@@ -31,7 +30,7 @@ development version:
 Contact
 =======
 
-You are welcome to: \* submit suggestions and bug-reports at:
-<https://github.com/data-steve/blogtools/issues> \* send a pull request on:
-<https://github.com/data-steve/blogtools/> \* compose a friendly e-mail to:
-<steven.troy.simpson@gmail.com>
+You are welcome to: 
+- submit suggestions and bug-reports at: <https://github.com/data-steve/blogtools/issues> 
+- send a pull request on: <https://github.com/data-steve/blogtools/> 
+- compose a friendly e-mail to: <steven.troy.simpson@gmail.com>
