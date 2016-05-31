@@ -2,8 +2,7 @@
 blogtools [![Follow](https://img.shields.io/twitter/follow/data_steve.svg?style=social)](https://twitter.com/intent/follow?screen_name=data_steve)
 ============
 
-[![Build
-Status](https://travis-ci.org/data-steve/blogtools.svg?branch=master)](https://travis-ci.org/data-steve/blogtools)
+
 <a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
 
 
