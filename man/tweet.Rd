@@ -4,12 +4,12 @@
 \alias{tweet}
 \title{Interactively Create Button to Embed Tweets}
 \usage{
-tweet(acct, hashtags, size = "large")
+tweet(hashtags, acct = "data_steve", size = "large")
 }
 \arguments{
-\item{acct}{twitter acct}
-
 \item{hashtags}{tags to include in tweet}
+
+\item{acct}{twitter acct}
 
 \item{size}{size of button}
 }
@@ -18,7 +18,7 @@ Interactively Create Button to Embed Tweets.
 }
 \examples{
 \dontrun{
-tweet("data_steve", c("R", "Data Science"))
+tweet("rstats, DataScience")
 }
 }
 

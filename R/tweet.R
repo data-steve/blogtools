@@ -8,9 +8,9 @@
 #' @export
 #' @examples
 #' \dontrun{
-#' tweet("data_steve", c("R", "Data Science"))
+#' tweet("rstats, DataScience")
 #' }
-tweet <- function(acct, hashtags, size="large"){
+tweet <- function(hashtags, acct="data_steve", size="large"){
   twt <- paste0('<a href="https://twitter.com/share" class="twitter-share-button" data-via="' ,acct
                 , '" data-size="', size,
                 '" data-hashtags="' , hashtags
