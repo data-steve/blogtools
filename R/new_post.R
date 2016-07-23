@@ -21,7 +21,7 @@ new_post <- function(title, titlecase=TRUE, date = as.character(Sys.Date()), fol
 
   # front matter
   yml <-  c("---","layout: post"
-            , paste0("title: ", ifelse(titlecase, tools::toTitleCase(title), title))
+            , paste0("title: '", ifelse(titlecase, tools::toTitleCase(title), title),"'")
             , "tags: []", "---")
 
   # build file name to work with Jekyll format
