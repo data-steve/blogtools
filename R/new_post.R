@@ -11,7 +11,7 @@
 #' \dontrun{
 #' new_post("the end of the year", date = "2016-12-31")
 #' }
-new_post <- function(title, titlecase=TRUE, date = as.character(Sys.Date()+1), folder = "./_backlog/"){
+new_post <- function(title, titlecase=TRUE, date = as.character(Sys.Date()), folder = "./_posts/"){
   # check wkdir
   if(!grepl("github.",getwd())) stop("You need to change wkdir to github.io folder")
 

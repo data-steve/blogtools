@@ -4,8 +4,8 @@
 \alias{new_post}
 \title{Creates a New Post in Jekyll-based Markdown}
 \usage{
-new_post(title, titlecase = TRUE, date = as.character(Sys.Date() + 1),
-  folder = "./_backlog/")
+new_post(title, titlecase = TRUE, date = as.character(Sys.Date()),
+  folder = "./_posts/")
 }
 \arguments{
 \item{title}{Title of new post}
