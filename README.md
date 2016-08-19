@@ -3,7 +3,7 @@ blogtools [![Follow](https://img.shields.io/twitter/follow/data_steve.svg?style=
 ============
 
 
-<a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
+<a href="https://img.shields.io/badge/Version-0.1.10-orange.svg"><img src="https://img.shields.io/badge/Version-0.1.10-orange.svg" alt="Version"/></a>
 
 
 ![](inst/blogtools.jpg)
