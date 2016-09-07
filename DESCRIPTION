@@ -1,6 +1,6 @@
 Package: blogtools
 Title: Tools for Helping with Blogging, Especially on Jekyll
-Version: 0.1.10
+Version: 0.1.11
 Authors@R: c(person("Steve", "Simpson", email = "steven.troy.simpson@gmail.com", role = c("aut", "cre")))
 Maintainer: Steve Simpson <steven.troy.simpson@gmail.com>
 Description: Tools for Helping with Blogging, Especially on Jekyll.
@@ -11,7 +11,7 @@ Suggests:
 Imports:
 	clipr,
 	urlshorteneR
-Date: 2016-08-19
+Date: 2016-09-06
 License: GPL-2
 LazyData: TRUE
 Roxygen: list(wrap = FALSE)
