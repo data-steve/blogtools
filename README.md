@@ -1,9 +1,11 @@
 
-blogtools [![Follow](https://img.shields.io/twitter/follow/data_steve.svg?style=social)](https://twitter.com/intent/follow?screen_name=data_steve)
+blogtools 
 ============
 
-
-<a href="https://img.shields.io/badge/Version-0.1.10-orange.svg"><img src="https://img.shields.io/badge/Version-0.1.10-orange.svg" alt="Version"/></a>
+[![Project Status: Active - The project has reached a stable, usable
+state and is being actively
+developed.](http://www.repostatus.org/badges/0.0.10/active.svg)](http://www.repostatus.org/#active)
+<a href="https://img.shields.io/badge/Version-0.0.10-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.10-orange.svg" alt="Version"/></a>
 
 
 ![](inst/blogtools.jpg)
